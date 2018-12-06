@@ -244,4 +244,3 @@ CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW 
 
 -- test 1951
 -- test 2010
--- test
